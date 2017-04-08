@@ -1,0 +1,5 @@
+/Users/jmclaughlin/Documents/workspace-sts-3.8.0.RELEASE/cf-spring-mvc-boot/src/main/java/io/pivotal/workshop/repository/AttendeeRepository.java
+/Users/jmclaughlin/Documents/workspace-sts-3.8.0.RELEASE/cf-spring-mvc-boot/src/main/java/io/pivotal/workshop/WorkshopApplication.java
+/Users/jmclaughlin/Documents/workspace-sts-3.8.0.RELEASE/cf-spring-mvc-boot/src/main/java/io/pivotal/workshop/web/DataInitializer.java
+/Users/jmclaughlin/Documents/workspace-sts-3.8.0.RELEASE/cf-spring-mvc-boot/src/main/java/io/pivotal/workshop/entity/Attendee.java
+/Users/jmclaughlin/Documents/workspace-sts-3.8.0.RELEASE/cf-spring-mvc-boot/src/main/java/io/pivotal/workshop/web/CloudFoundryWorkshopController.java
